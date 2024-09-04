@@ -65,5 +65,3 @@ int main(int argc, char *argv[])
 }
   return 0;
 };
-
-/*To fix: povremeni seg fault u slučaju nedozvoljene kombinacije zagrada na ulazu*/
